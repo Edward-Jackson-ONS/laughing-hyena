@@ -1,0 +1,4 @@
+geopandas==0.14.3
+pandas==2.2.0
+pydeck==0.8.0
+pre-commit

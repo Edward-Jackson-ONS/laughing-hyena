@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LSOA21CD": "E01004962", "count": 66, "mean": 0.84848484848484851, "FID": 4701, "LSOA21NM": "Bury 009C", "BNG_E": 378974, "BNG_N": 411652, "LONG": -2.31919, "LAT": 53.60102, "Shape__Area": 252798.84504699701, "Shape__Length": 2240.1257751222602, "GlobalID": "5ecfafa6-a2fd-4bbb-bfeb-b00190aa26af" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.31499137926837, 53.6024635714613 ], [ -2.31697070536898, 53.596647528210603 ], [ -2.31973332071868, 53.597272248225103 ], [ -2.32336202996076, 53.604132546047097 ], [ -2.31499137926837, 53.6024635714613 ] ] ] } }
+]
+}
