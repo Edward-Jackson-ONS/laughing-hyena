@@ -1,0 +1,6 @@
+langchain>=0.1.14
+langchain-community>=0.0.31
+langchain-core>=0.1.40
+PyPDF>=1.27.0
+ipykernel>-6.29.4
+chromadb>=0.4.24
